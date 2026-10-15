@@ -572,6 +572,12 @@ Keep your entry short and professional.
 - I worked on: test: include welcome plugin tests
 - I learned: how a focused pull request becomes a visible open-source contribution
 
+### @Shreya657
+
+- First merged PR: #515
+- I worked on: test: cover badges empty state
+- I learned: how a focused pull request becomes a visible open-source contribution
+
 ## Why This Exists
 
 Open source can feel invisible when you are starting out. This page gives new contributors a simple record of their first merge and shows future visitors that real beginners are welcome here.
