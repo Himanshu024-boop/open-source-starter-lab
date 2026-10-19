@@ -6,7 +6,7 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 - Level: 3 - Trust Builder
 - First merged PR: #535
-- Latest merged PR: #538
+- Latest merged PR: #539
 - Primary skill: testing
 - Proof: merged pull request with maintainer review and project checks
 
@@ -18,9 +18,11 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 | #538 | 2026-10-19 | testing | test: cover mentor selection and no-match behavior | #533 |
 
+| #539 | 2026-10-19 | testing | test: cover PR welcome feedback and optional issue links | #530 |
+
 ## Suggested Next Step
 
-- Second PR route: #530 Give scripts/welcomePullRequest.ts some real test coverage
+- Second PR route: #529 Give src/plugins/weeklySummary.ts some real test coverage
 
 ## Share Line
 
