@@ -584,6 +584,12 @@ Keep your entry short and professional.
 - I worked on: test(mentor): add unit test coverage for mentor plugin (#509)
 - I learned: how a focused pull request becomes a visible open-source contribution
 
+### @faizulr
+
+- First merged PR: #535
+- I worked on: fix(site): show empty state when feed contains only pull requests
+- I learned: how a focused pull request becomes a visible open-source contribution
+
 ## Why This Exists
 
 Open source can feel invisible when you are starting out. This page gives new contributors a simple record of their first merge and shows future visitors that real beginners are welcome here.
